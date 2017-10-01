@@ -1,0 +1,5 @@
+#just a ingore file for the executable etc..
+
+exec_name
+*~
+*.log
