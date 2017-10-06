@@ -1,0 +1,10 @@
+_Bool is_prime(int x);
+
+_Bool is_prime(int prime){
+  for (int i = 2; i < prime; i++){
+    if (prime % i == 0){
+      return(0);
+    }
+  }
+  return(1);
+}
