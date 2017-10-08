@@ -1,4 +1,4 @@
 build:
-	gcc -o exec_name 010/10.c
+	gcc -o exec_name 020/11.c
 run:
 	./exec_name
