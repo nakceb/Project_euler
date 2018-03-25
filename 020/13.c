@@ -4,9 +4,9 @@
 #include "13.h"
 #include "13_string.h"
 
+
 int main(){
   // string_array = create_13_string();
-  printf("string_array is %d\n", string_array[][0]);
   char* const string_array_shortened[100];
   int value_array[100];
   unsigned long sum = 0;
